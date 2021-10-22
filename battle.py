@@ -1,4 +1,9 @@
 #Alfredo Izak Figueroa
+#Adriana Mendivil Altamirano
+#Jose Pablo Lubbert Carranza
+#Equipo 8
+#TC1028 G4
+#22 de octubre 2021
 #%%
 import random
 
